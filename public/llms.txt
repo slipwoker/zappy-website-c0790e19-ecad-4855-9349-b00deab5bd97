@@ -1,0 +1,60 @@
+# טינה הלוי — Generative Engine Optimization Map
+
+> A private English tutoring service offered by a native English speaker. The business emphasizes the unique advantage of learning from a native speaker, suggesting authenticity, proper pronunciation, and cultural insights as key differentiators.
+
+---
+
+## Pages
+
+### בית
+https://-c0790e19.zappy5.app
+שיעורי אנגלית פרטיים עם דוברת אנגלית כשפת אם. שיפור ביטחון, הגייה מושלמת והצלחה בבגרות. למדו אנגלית אמיתית מטינה הלוי.
+
+### אודות
+https://-c0790e19.zappy5.app/about
+גלו את היתרונות הייחודיים של לימוד אנגלית עם מורה פרטית דוברת שפת אם. ניסיון, תשוקה והצלחות מוכחות של תלמידים. הכירו את טינה הלוי.
+
+### תוכניות ומחירים
+https://-c0790e19.zappy5.app/programs
+שיעורי אנגלית פרטיים לסטודנטים, תלמידי תיכון והכנה לטיולים בחו״ל. תוכניות גמישות במחירים הוגנים. בחרו את המסלול המושלם עבורכם עכשיו.
+
+### צור קשר
+https://-c0790e19.zappy5.app/contact
+מוכנים לשפר את האנגלית שלכם? צרו קשר עם טינה הלוי לשיעור ניסיון ראשון. זמינות מוגבלת - הזדרזו להבטיח את מקומכם עם מורה פרטית מנוסה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-c0790e19.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-c0790e19.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-c0790e19.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About טינה הלוי
+A private English tutoring service offered by a native English speaker. The business emphasizes the unique advantage of learning from a native speaker, suggesting authenticity, proper pronunciation, and cultural insights as key differentiators.
+
+## Target Audience
+- תלמידי תיכון
+- סטודנטים אוניברסיטאיים
+- חובבי טיולים
+- הורים לילדים
+
+## Industry
+חינוך ולימודים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-c0790e19.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-c0790e19.zappy5.app/robots.txt
